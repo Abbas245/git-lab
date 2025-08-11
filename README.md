@@ -1,6 +1,6 @@
-# My Git Lab Project
+# My Git Lab Project(v2)
 
 ## Badges
-- Build: passing
-- Coverage: 100%
 
+* Build: passing
+* Coverage: 100%
